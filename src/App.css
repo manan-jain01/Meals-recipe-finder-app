@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background-color:rgb(23,62,67) ;
+}
+
+.header{
+  text-align: center;
+  background-color: rgb(158, 158, 152);
+  color: white;
+  padding: 7px;
+  font-family: sans-serif;
+}
+
+.form{
+  display: flex;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 2px solid #ccf002;
+}
+
+.text{
+  width: 90%;
+  height: 20px;
+  border-radius: 3px;
+  border: 1px black solid;
+}
+
+.btn{
+  width: 10%;
+  border-radius: 3px;
+  border: 1px black solid;
+}
+
+.box{
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    background-color: white;
+    border: 1px black solid;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px;
+    justify-content: space-around;
+    width: 70%
+}
+
+.items{
+    padding: 30px;
+}
