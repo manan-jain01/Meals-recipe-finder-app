@@ -3,7 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## ABOUT THIS PROJECT
 
 This app find recipe for any searched food item. This react app is made with react hooks uses api to fetch the recipes.  
-![alt text](http://url/to/image.png)
 
 
 ## Available Scripts
